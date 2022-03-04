@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="hint_text">Please input some text</string>
+    <string name="back_to_main">BACK TO MAIN</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="button">BUTTON</string>
+</resources>
